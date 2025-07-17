@@ -4,7 +4,7 @@ It is Windows only at the moment. There is no installer it is all in one folder.
 
 There is some known issues with you tube music page pop ups like "reload page" and "leave page" that I couldn't block. Also the mouse stutters a few seconds on program close, I couldn't solve this one but it seems harmless and I think it the windows hooks threads closing.
 
-Top Left mouse enter is maximize window, top right mouse enter is minimize. Bottom row mouse enter is also minimize. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle.
+Top Left mouse enter is maximize window, top right mouse enter is minimize. Bottom row mouse enter is also minimize. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
 
 I may add mouse over audio sample fun for freestyle song covers or whatever, and I might add audio visualizers soon.
 
