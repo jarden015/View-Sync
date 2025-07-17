@@ -1,8 +1,10 @@
 I put a don't sell license (but free to distribute and use) in case I need money someday, or build a different version through a firm with money, then make that new version open source with more advanced AI features.
 
-It is Windows only at the moment. There is no installer it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. The most likely place I know this would mess up is the top left and right corners where I have mouse enter events. Left maximize right minimize. Bottom row should also minimize. Left click in left corner is menu. If there's problems start a Issue on the tab above.
+It is Windows only at the moment. There is no installer it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. The most likely place I know this would mess up is the top left and right corners where I have mouse enter events. If there's problems with this start a issue on the tab above.
 
 There is some known issues with you tube music page pop ups like "reload page" and "leave page" that I couldn't block. Also the mouse stutters a few seconds on program close, I couldn't solve this one but it seems harmless and I think it the windows hooks threads closing.
+
+Top Left mouse enter is maximize window, top right mouse enter is minimize. Bottom row mouse enter is also minimize. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle.
 
 I may add mouse over audio sample fun for freestyle song covers or whatever, and I might add audio visualizers soon.
 
