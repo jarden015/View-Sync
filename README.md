@@ -1,6 +1,6 @@
 I put a dont sell licence (but free to distribure and use) in case I need money someday, or build a different version through a firm with money, then make that new version open source with more advanced AI features.
 
-It is Windows only at the moment. Its possible I missed some things about different aspect monitors and different resolutions. The most likly place I know this would mess up is the top left and right corners where I have mouse enter events. Left maximize right minimize. Bottom row should also minimize. Left click is menu. If theres problems start a Issue on the tab above.
+It is Windows only at the moment. There is no installer it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. The most likly place I know this would mess up is the top left and right corners where I have mouse enter events. Left maximize right minimize. Bottom row should also minimize. Left click is menu. If theres problems start a Issue on the tab above.
 
 There is some known issues with you tube music page pop ups like "reload page?" and "leave page" that I couldnt block.
 
