@@ -6,6 +6,8 @@ I put a don't sell license (but free to distribute and use) in case I need money
 
 Top left corner mouse enter is show window, top right corner mouse enter is hide window. There is a 1 px bar on the bottom, on purpose, for windows taskbar to pop up. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
 
+# Other stuff:
+
 There is many things I could add! My favorite add ons would be mouse over audio samples with overlap and position so i could mouse over a array of sounds across the screen!
 Image changers with beat, spectrum left/right, energy events and optional minimum delays for slideshow like stuff. Dominant tone phasing! EZ animated cutout of a mp4 or webm. FX!
 
