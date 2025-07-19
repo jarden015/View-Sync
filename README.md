@@ -4,7 +4,7 @@ I put a don't sell license (but free to distribute and use) in case I need money
 
 # Instructions:
 
-Google Drive like to put a warning like this "There was a problem with the preview." but you can still download it. This is just because it is not a video or song.
+Google drive likes to put a warning like this "There was a problem with the preview." but you can still download it. This is just because it is not a video or song.
 
 Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
 
