@@ -4,7 +4,7 @@ I put a don't sell license (but free to distribute and use) in case I need money
 
 # Instructions:
 
-Top left corner mouse enter is show window, top right corner mouse enter is hide window. There is a 1 px bar on the bottom, on purpose, for windows taskbar to pop up. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
+Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
 
 # Other stuff:
 
