@@ -1,6 +1,8 @@
 I put a don't sell license (but free to distribute and use) in case I need money someday, or build a different version through a firm with money, then make that new version open source with more advanced with AI features.
 
-Top Left mouse enter is show window, top right mouse enter is hide window. There is a 1 px bar on the bottom, on purpose, for windows taskbar to pop up. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
+It is set to be a always on top window that is transparent.
+
+Top left corner mouse enter is show window, top right corner mouse enter is hide window. There is a 1 px bar on the bottom, on purpose, for windows taskbar to pop up. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
 
 I could not make the splash screen fullscreen because of the way the transparent screen work.
 
