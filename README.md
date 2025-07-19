@@ -10,6 +10,8 @@ Top left corner mouse enter is show window, top right corner mouse enter is hide
 
 # Other stuff:
 
+Check my website for examples of syncing with the movies! https://view-sync.com/
+
 There is many things I could add! My favorite add ons would be mouse over audio samples with overlap and position so i could mouse over a array of sounds across the screen!
 Image changers with beat, spectrum left/right, energy events and optional minimum delays for slideshow like stuff. Dominant tone phasing! EZ animated cutout of a mp4 or webm. FX!
 
