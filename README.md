@@ -15,7 +15,7 @@ Image changers with beat, spectrum left/right, energy events and optional minimu
 
 It is set to be a always on top window that is transparent and click through (except colliders I put in the scene).
 
-I could not make the splash screen fullscreen because of the way the transparent screen work.
+I could not make the splash screen fullscreen because of the way the transparent screen works.
 
 It is Windows only at the moment. There is no installer, it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. If there's problems you can start a issue on the issues tab above.
 
