@@ -19,12 +19,10 @@ Image changers with beat, spectrum left/right, energy events and optional minimu
 
 It is set to be a always on top window that is transparent and click through (except colliders I put in the scene).
 
-I could not make the splash screen fullscreen because of the way the transparent screen works.
-
 It is Windows only at the moment. There is no installer, it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. If there's problems you can start a issue on the issues tab above.
 
 It is not digitally signed so just ignore the windows warning. Its $100 on steam to sign it if they accept the program. I may do that sometime. Microsoft defender doesn't pick up any problems. I didn't get a chance to scan it with anything else. Its possible that anti malware or virus scanners pick up something even though I didn't put any malware or virus in it.
 
-Currently I can only make the unity project open source if people have licenses to the assets I used in it (Vuplex WebView). About $150 worth.
+Currently I can only make the unity project open source if people have licenses to the assets I used in it (Vuplex WebView, ultimate Sprite Shaders, Dot tween). About $250 worth.
 
 Big thanks to all the package and editor creators!
