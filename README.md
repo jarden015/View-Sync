@@ -1,6 +1,6 @@
 # License stuff:
 
-I put a don't sell license (but free to distribute and use) in case I need money someday, or build a different version through a firm with money, then make that new version open source with more advanced with AI features.
+I put a don't sell license (but free to distribute and use) in case I want to roll over revenue to build a better open source version with alot more features.
 
 # Instructions:
 
