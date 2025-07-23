@@ -23,6 +23,6 @@ It is Windows only at the moment. There is no installer, it is all in one folder
 
 It is not digitally signed so just ignore the windows warning. Its $100 on steam to sign it if they accept the program. I may do that sometime. Microsoft defender doesn't pick up any problems. I didn't get a chance to scan it with anything else. Its possible that anti malware or virus scanners pick up something even though I didn't put any malware or virus in it.
 
-Currently I can only make the unity project open source if people have licenses to the assets I used in it (Vuplex WebView, ultimate Sprite Shaders, Dot tween). About $250 worth.
+Currently I can only make the unity project open source if people have licenses to the assets I used in it (Vuplex WebView, Ultimate Sprite Shaders, Dot Tween). About $250 worth.
 
 Big thanks to all the package and editor creators!
