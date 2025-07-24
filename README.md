@@ -17,7 +17,7 @@ Check my website for examples of syncing with the movies! https://view-sync.com/
 There is many things I could add! My favorite add ons would be mouse over audio samples with overlap and position so i could mouse over a array of sounds across the screen!
 Image changers with beat, spectrum left/right, energy events and optional minimum delays for slideshow like stuff. Dominant tone phasing! EZ animated cutout of a mp4 or webm. FX!
 
-It is set to be a always on top window that is transparent and click through (except colliders I put in the scene).
+It is set to be a always-on top window that is transparent and click-through (except colliders I put in the scene). This is just because it might provide additional features. I may change this to act like a normal window with transparency and click through to make it less finicky when being blocked by windows and with other fullscreen programs.
 
 It is Windows only at the moment. There is no installer, it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. If there's problems you can start a issue on the issues tab above.
 
