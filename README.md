@@ -6,9 +6,15 @@ I put a don't sell license (but free to distribute and use) in case I want to ro
 
 Google drive likes to put a warning like this "There was a problem with the preview." but you can still download it. This is just because it is not a video or song.
 
-It is a really simple to use program at this point. The menu has only 4 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click.
+It is a really simple to use program. The menu has only 4 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click.
 
-Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Also for now there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
+Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Also there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
+
+Esc will hide the window. Double click on and off in the top right corner to turn on and off bottom row and top left detection for a "Game Mode" to not bring out of full screen apps.
+
+It works with my bluetooth headphone commands (play/pause, next song, last song, volume).
+
+If a valid link is on the clipboard when "play click" is pressed it loads that song for the click.
 
 # Other stuff:
 
