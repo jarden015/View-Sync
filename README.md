@@ -14,7 +14,7 @@ Esc will hide the window. Double click on and off in the top right corner to tur
 
 It works with my bluetooth headphone commands (play/pause, next song, last song, volume).
 
-If a valid link is on the clipboard when "play click" is pressed it loads that song for the click.
+If a valid link (music.youtube.com/watch and a valid youtube id which is on the share page inside music.youtube.com song menus) is on the clipboard when "play click" is pressed it loads that song for the click.
 
 # Other stuff:
 
