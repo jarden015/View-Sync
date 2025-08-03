@@ -8,13 +8,11 @@ Google drive likes to put a warning like this "There was a problem with the prev
 
 It is a really simple to use program. The menu has only 4 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click.
 
-Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Also there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind these to my mouse.
-
-Esc will hide the window. Double click on and off in the top right corner to turn on and off bottom row and top left detection for a "Game Mode" to not bring out of full screen apps.
+Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Double click in the top right corner to turn on and off bottom row and top left detection for a "Game Mode" for less interference with other programs. Esc will hide the window. Also there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind some of these to my mouse.
 
 It works with my bluetooth headphone commands (play/pause, next song, last song, volume).
 
-If a valid link (music.youtube.com/watch and a valid youtube id which is on the share page inside music.youtube.com song menus) is on the clipboard when "play click" is pressed it loads that song for the click.
+If a valid link (music.youtube.com/watch and a valid youtube id which is on the share menu inside music.youtube.com) is on the clipboard when "play click" is pressed it loads that song for the click.
 
 # Other stuff:
 
@@ -22,8 +20,6 @@ Check my website for examples of syncing with the movies! https://view-sync.com/
 
 There is many things I could add! My favorite add ons would be mouse over audio samples with overlap and position so i could mouse over a array of sounds across the screen!
 Image changers with beat, spectrum left/right, energy events and optional minimum delays for slideshow like stuff. Dominant tone phasing! EZ animated cutout of a mp4 or webm. FX!
-
-It is set to be a always-on top window that is transparent and click-through (except colliders I put in the scene). This is just because it might provide additional features. I may change this to act like a normal window with transparency and click through to make it less finicky when being blocked by windows and with other fullscreen programs.
 
 It is Windows only at the moment. There is no installer, it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. If there's problems you can start a issue on the issues tab above.
 
