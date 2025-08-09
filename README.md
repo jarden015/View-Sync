@@ -8,6 +8,8 @@ It is a really simple to use program. The menu has only 4 buttons: Refresh Page,
 
 Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Double click in the top right corner to turn on and off bottom row and top left detection for a "Game Mode" for less interference with other programs. Esc will hide the window. Also there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind some of these to my mouse.
 
+The clicks in the corner and inside the player do get blocked from the stuff underneath.
+
 It works with my bluetooth headphone commands (play/pause, next song, last song, volume).
 
 If a valid link (music.youtube.com/watch and a valid youtube id which is on the share menu inside music.youtube.com) is on the clipboard when "play click" is pressed it loads that song for the click.
