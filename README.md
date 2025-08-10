@@ -10,7 +10,7 @@ Top left corner mouse enter is show window, top right corner mouse enter is hide
 
 The clicks in the corner and inside the player do get blocked from the stuff underneath.
 
-It works with my bluetooth headphone commands (play/pause, next song, last song, volume).
+It works with my bluetooth headphone buttons (play/pause, next song, last song, volume).
 
 If a valid link (music.youtube.com/watch and a valid youtube id which is on the share menu inside music.youtube.com) is on the clipboard when "play click" is pressed it loads that song for the click.
 
