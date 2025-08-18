@@ -6,7 +6,7 @@ I put a don't sell license (but free to distribute and use) in case I want to ro
 
 It is a really simple to use program. The menu has only 4 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click.
 
-Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Double click in the top right corner to turn on and off bottom row and top left detection for a "Game Mode" for less interference with other programs. Esc will hide the window. Also there is 3 static global hotkeys: Ctrl Alt Shift F10 is play next song, Ctrl Alt Shift F11 is play last song, Ctrl Alt Shift F12 is Play/Pause toggle. I bind some of these to my mouse.
+Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Double click in the top right corner to turn on and off bottom row and top left detection for a "Game Mode" for less interference with other programs. Esc will hide the window. Also there is 3 static global hotkeys: Alt Shift F10 is play next song, Alt Shift F11 is play last song, Alt Shift F12 is Play/Pause toggle. I bind some of these to my mouse.
 
 The clicks in the corner and inside the player do get blocked from the stuff underneath.
 
