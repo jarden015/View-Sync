@@ -21,7 +21,7 @@ Check my website for examples of syncing with the movies! https://view-sync.com/
 Google drive likes to put a warning like this "There was a problem with the preview." when downloading but you can still download it. This is just because it is not a video or song.
 
 There is many things I could add! My favorite add ons would be mouse over audio samples with overlap and position so i could mouse over a array of sounds across the screen!
-Image changers with beat, spectrum left/right, energy events and optional minimum delays for slideshow like stuff. Phasing and echo effects! EZ animated cutout of a mp4 or webm. FX!
+Image changers with beat, spectrum left/right, energy events and optional minimum delays for slideshow like stuff. Phasing and echo effects (this only works for user dropped in samples because of recursion)! EZ animated cutout of a mp4 or webm from the alpha channel of your webm. Full screen webm play on click with optional song. FX!
 
 It is Windows only at the moment. There is no installer, it is all in one folder. Its possible I missed some things about different aspect monitors and different resolutions. If there's problems you can start a issue on the issues tab above.
 
