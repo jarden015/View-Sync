@@ -4,11 +4,11 @@ I put a don't sell license (but free to distribute and use) in case I want to ro
 
 # Instructions:
 
-It is a really simple to use program. The menu has only 4 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click.
+It is a really simple to use program. The menu has only 5 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click, settings.
 
-Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Double click in the top right corner to turn on and off bottom row and top left detection for a "Game Mode" for less interference with other programs. Esc will hide the window the same way top right corner does. Also there is 3 static global hotkeys: Alt Shift F10 is play next song, Alt Shift F11 is play last song, Alt Shift F12 is Play/Pause toggle. I bind some of these to my mouse.
+Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Double click in the top right corner to turn on and off top left corner detection for a "Game Mode" for less interference with other programs. Esc will hide the window the same way top right corner does. Also the default global hotkeys are: Alt Shift F10 is Play/Pause toggle, Alt Shift F11 is play next song, Alt Shift F12 is play last song. I bind some of these to my mouse.
 
-The clicks in the corner and inside the player do get blocked from the stuff underneath.
+The clicks in the corner and inside the player do get blocked from the stuff underneath so you dont hit the x or the menu of things under it.
 
 It works with my bluetooth headphone buttons (play/pause, next song, last song, volume).
 
