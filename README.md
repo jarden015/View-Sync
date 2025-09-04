@@ -1,10 +1,10 @@
 # License stuff:
 
-I put a don't sell license (but free to distribute and use) in case I want to roll over revenue to build a better open source version with alot more features.
+I put a don't sell license (but free to distribute and use) in case I want to roll over revenue to build a better open source version with alot more features. When I add more features and get a digital signature maybe I will charge 5 or so.
 
 # Instructions:
 
-It is a really simple to use program. The menu has only 5 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click, settings.
+It is a really simple to use program. The menu has only 5 buttons: Refresh Page, Reset Music Player, Play with Click, Next with Click, Settings.
 
 Top left corner mouse enter is show window, top right corner mouse enter is hide window. Left click in top left corner is menu. Double click in the top right corner to turn on and off top left corner detection for a "Game Mode" for less interference with other programs. Esc will hide the window the same way top right corner does. Also the default global hotkeys are: Alt Shift F10 is Play/Pause toggle, Alt Shift F11 is play next song, Alt Shift F12 is play last song. I bind some of these to my mouse.
 
